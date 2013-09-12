@@ -1,7 +1,7 @@
 #ifndef _0_SUFFIX_ARRAY_HPP
 #define _0_SUFFIX_ARRAY_HPP
 
-#include "problem.hpp"
+#include "../problem.hpp"
 
 #include <iostream>
 
@@ -15,8 +15,6 @@ public:
 
 	int solve()
 	{
-		std::cout << "Hello, I am SuffixArray!\n";
-
 		return 0;
 	}
 };
