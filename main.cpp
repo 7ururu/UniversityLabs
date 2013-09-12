@@ -1,4 +1,4 @@
-#include "_0_SuffixArray.hpp"
+#include "labs/_0_SuffixArray.hpp"
 
 int main()
 {
