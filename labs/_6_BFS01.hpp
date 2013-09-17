@@ -1,5 +1,5 @@
-#ifndef _3_BFS01_HPP
-#define _3_BFS01_HPP
+#ifndef _6_BFS01_HPP
+#define _6_BFS01_HPP
 
 #include "../problem.hpp"
 
@@ -8,7 +8,7 @@
 #include <queue>
 #include <vector>
 
-namespace _3_
+namespace _6_
 {	
 
 const int MAX_EDGE_COST = 2;
@@ -85,5 +85,4 @@ public:
 };
 
 }
-
 #endif
