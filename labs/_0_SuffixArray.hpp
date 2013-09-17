@@ -22,7 +22,7 @@ public:
 	int solve()
 	{
 		std::vector < int > suffArray = buildSuffixArray(s);
-		for (int i = 0; i < s.size(); i++)
+		for (int i = 0; i < (int)s.size(); i++)
 			printf("%i ", suffArray[i]);
 		return 0;
 	}

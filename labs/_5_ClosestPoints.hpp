@@ -1,5 +1,5 @@
-#ifndef _5_CLOSEST_POINTS
-#define _5_CLOSEST_POINTS
+#ifndef _5_CLOSEST_POINTS_HPP
+#define _5_CLOSEST_POINTS_HPP
 
 #include "../problem.hpp"
 

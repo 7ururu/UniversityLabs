@@ -67,7 +67,7 @@ public:
 				}
 			if (empty)
 				break;
-			for (int i = 0; i < edges[v].size(); i++)
+			for (int i = 0; i < (int)edges[v].size(); i++)
 			{
 				Edge e = edges[v][i];
 				if (dist[e.to] > dist[v] + e.cost)
