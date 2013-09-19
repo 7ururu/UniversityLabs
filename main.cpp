@@ -6,5 +6,9 @@
 
 int main()
 {
+	//return _0_::SuffixArray().solve();
+	//return _5_::ClosestPoints().solve();
+	//return _6_::BFS01().solve();
+	//return _7_::PreffixFunction().solve();
 	return _9_::KMP().solve();
 }

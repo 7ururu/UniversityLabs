@@ -11,10 +11,10 @@ namespace _0_
 
 std::string s;
 
-class _0_SuffixArray : Problem
+class SuffixArray : Problem
 {
 public:
-	_0_SuffixArray() : Problem("")
+	SuffixArray() : Problem("")
 	{
 		std::cin >> s;
 	}
